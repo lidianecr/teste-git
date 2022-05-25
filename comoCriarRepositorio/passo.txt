@@ -2,4 +2,8 @@
 2- git init 
 3- criar repositorio no github
 4- usar comando git remote.. 
+ 5- git add .
+ 6- git commit -m "meu primeiro commit"
+ 7- git push 
+ 8- copiar o "git push --set.."
  
