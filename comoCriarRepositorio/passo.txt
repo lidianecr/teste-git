@@ -6,4 +6,4 @@
  6- git commit -m "meu primeiro commit"
  7- git push 
  8- copiar o "git push --set.."
- 
+ teste 
